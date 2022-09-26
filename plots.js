@@ -94,7 +94,7 @@ function buildCharts(sample) {
       type: "bar",
       orientation: 'h',
       text: otuLabels,// this creates the hovertext
-      marker: {color: "darkmagenta"}
+      marker: {color: "red"}
     }];
     // 9. Create the layout for the bar chart. 
     var barLayout = {
