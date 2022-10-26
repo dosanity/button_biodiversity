@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-We are tasked to examine potential bacterial species that have the ability to synthesize proteins that taste like beef. By using JavaScript, Plotly, and Bootstrap, we created a cloud deployable interactive data visualizations to analyze and research the different bacterial species. 
+We are tasked to examine potential bacterial species that have the ability to synthesize proteins that taste like beef. By using JavaScript, Plotly, and Bootstrap, we created a cloud deployable interactive data visualization to analyze and research the different bacterial species. 
 
 ## Resources
 
